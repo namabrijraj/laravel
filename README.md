@@ -8,6 +8,8 @@
 * Hash base authentication once
 * Unit test
 * Laravel custom artisan command
+* Laravel Migration
+* Laravel Seeder
 * Laravel queue jobs
 
 ## Install Dependencies for Development
